@@ -1,0 +1,17 @@
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\bin\Debug\netstandard2.0\Glide.deps.json
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\bin\Debug\netstandard2.0\Glide.dll
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\bin\Debug\netstandard2.0\Glide.pdb
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Glide.csprojAssemblyReference.cache
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Glide.csproj.CoreCompileInputs.cache
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Glide.AssemblyInfoInputs.cache
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Glide.AssemblyInfo.cs
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Glide.dll
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide\obj\Debug\netstandard2.0\Glide.pdb

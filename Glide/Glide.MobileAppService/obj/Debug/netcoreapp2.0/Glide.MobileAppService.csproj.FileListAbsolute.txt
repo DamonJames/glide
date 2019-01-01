@@ -1,0 +1,11 @@
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\bin\Debug\netcoreapp2.0\Glide.MobileAppService.deps.json
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\bin\Debug\netcoreapp2.0\Glide.MobileAppService.runtimeconfig.json
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\bin\Debug\netcoreapp2.0\Glide.MobileAppService.runtimeconfig.dev.json
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\bin\Debug\netcoreapp2.0\Glide.MobileAppService.dll
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\bin\Debug\netcoreapp2.0\Glide.MobileAppService.pdb
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\obj\Debug\netcoreapp2.0\Glide.MobileAppService.csprojAssemblyReference.cache
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\obj\Debug\netcoreapp2.0\Glide.MobileAppService.csproj.CoreCompileInputs.cache
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\obj\Debug\netcoreapp2.0\Glide.MobileAppService.AssemblyInfoInputs.cache
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\obj\Debug\netcoreapp2.0\Glide.MobileAppService.AssemblyInfo.cs
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\obj\Debug\netcoreapp2.0\Glide.MobileAppService.dll
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide\Glide.MobileAppService\obj\Debug\netcoreapp2.0\Glide.MobileAppService.pdb

@@ -1,0 +1,6 @@
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide.Data\bin\Debug\netcoreapp2.2\Glide.Data.deps.json
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide.Data\bin\Debug\netcoreapp2.2\Glide.Data.dll
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide.Data\obj\Debug\netcoreapp2.2\Glide.Data.csprojAssemblyReference.cache
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide.Data\obj\Debug\netcoreapp2.2\Glide.Data.csproj.CoreCompileInputs.cache
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide.Data\obj\Debug\netcoreapp2.2\Glide.Data.AssemblyInfoInputs.cache
+C:\Users\Damon\source\repos\Xamarin.Tutorial.iOS\Glide.Data\obj\Debug\netcoreapp2.2\Glide.Data.AssemblyInfo.cs
